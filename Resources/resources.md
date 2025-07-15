@@ -6,3 +6,5 @@
 - [Jonas resources](https://codingheroes.io/resources/)
 - [Nested grid](https://gridbyexample.com/examples/example21/)
 - [Type scale](https://type-scale.com/) - For visualization of different font size
+- [Unsplash](unsplash.com) - For free stock images and videos.
+- [Coverr](coverr.co) - For free stock videos.
