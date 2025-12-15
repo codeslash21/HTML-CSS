@@ -5,6 +5,7 @@
 - [Coverr](coverr.co) - For free stock videos.
 - [Diffchecker](https://www.diffchecker.com/)
 - [HTML validator](https://validator.w3.org/#validate_by_input)
+- [Icomoon](https://icomoon.io/app/#/select) - for svg icons
 - [Jonas resources](https://codingheroes.io/resources/)
 - [Nested grid](https://gridbyexample.com/examples/example21/)
 - [Type scale](https://type-scale.com/) - For visualization of different font size
